@@ -5,8 +5,5 @@
 [![Twitter](https://img.shields.io/badge/-Telegram-informational?style=flat&labelColor=informational&logo=telegram&logoColor=white&link=https://t.me/Fib0nacci)](https://t.me/Fib0nacci)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jmfllamas@gmail.com)](mailto:jmfllamas@gmail.com)
 
-<p align="left">
-    Programador / Administrador de sistemas
-</p>
-
+<p align="left">Soy administrador de sistemas middleware y programador, me apasiona el mundo de la programación tanto como el mundo GNU/Linux.</p>
 <img title='Tux' src='./img/tux.PNG' align="right"/>
