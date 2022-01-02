@@ -8,4 +8,5 @@
 <p align="left">
     Programador / Administrador de sistemas
 </p>
-<img title='Tux' src='./img/tux.PNG' style='float: right;'/>
+
+<img title='Tux' src='./img/tux.PNG' align="right"/>
