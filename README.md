@@ -5,6 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Telegram-informational?style=flat&labelColor=informational&logo=telegram&logoColor=white&link=https://t.me/Fib0nacci)](https://t.me/Fib0nacci)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jmfllamas@gmail.com)](mailto:jmfllamas@gmail.com)
 
-Hola
+<p style='float: left;'>
+    Programador / Administrador de sistemas
+</p>
 <img title='Tux' src='./img/tux.PNG' style='float: right;'/>
-Adios
