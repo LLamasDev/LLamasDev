@@ -1,13 +1,14 @@
 <h1 align='center'>Hola :wave:, soy José Manuel</h1>
 
-<img title='Tux' src='./img/tux.PNG' align="right"/>
+<img title='Tux' src='./img/Tux.png' align='right'/>
 
-[![Linkedin](./img/LinkedIn.svg "Linkedin")](https://www.linkedin.com/in/llamasdev/)
-[![Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://llamasdev.github.io/)](https://llamasdev.github.io/)
-[![Telegram](https://img.shields.io/badge/-Telegram-informational?style=flat&labelColor=informational&logo=telegram&logoColor=white&link=https://t.me/Fib0nacci)](https://t.me/Fib0nacci)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jmfllamas@gmail.com)](mailto:jmfllamas@gmail.com)
+[![Linkedin](./img/LinkedIn.svg 'Linkedin')](https://www.linkedin.com/in/llamasdev/)
+[![Blog](./img/Blog.svg 'Blog')](https://llamasdev.github.io/)
+[![Twitter](./img/Twitter.svg 'Twitter')](https://twitter.com/LLamasDev)
+[![Telegram](./img/Telegram.svg 'Telegram')](https://t.me/Fib0nacci)
+[![Email](./img/Email.svg 'Email')](mailto:jmfllamas@gmail.com)
 
-<p align="left">Soy administrador de sistemas middleware y programador, me apasiona el mundo de la programación tanto como el mundo GNU/Linux.</p>
+<p align='left'>Soy administrador de sistemas middleware y programador, me apasiona el mundo de la programación tanto como el mundo GNU/Linux.</p>
 
 ## :office_worker: Trabajo
 - Técnico administrador de sistemas Middleware
