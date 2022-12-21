@@ -1,7 +1,5 @@
 <img title='Tux' src='./img/Tux.png' align='right'/>
 
-# Hola mundo :wave:, soy LLamasDev
-
 [![Linkedin](./img/LinkedIn.svg 'Linkedin')](https://www.linkedin.com/in/llamasdev/)
 [![Blog](./img/Blog.svg 'Blog')](https://llamasdev.github.io/)
 [![Telegram](./img/Telegram.svg 'Telegram')](https://t.me/Fib0nacci)
