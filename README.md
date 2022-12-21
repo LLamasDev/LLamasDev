@@ -6,7 +6,7 @@
 [![Email](./img/Email.svg 'Email')](mailto:jmfllamas@gmail.com)
 [![Twitter](./img/Twitter.svg 'Twitter')](https://twitter.com/LLamasDev)
 
-Apasionado del mundo de la programación y el mundo GNU/Linux.
+Apasionado del mundo de la programación y del mundo GNU/Linux.
 
 ## :office_worker: Trabajo
 - Técnico administrador de sistemas Middleware
