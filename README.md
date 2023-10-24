@@ -9,7 +9,7 @@
 Apasionado del mundo de la programación y del mundo GNU/Linux.
 
 ## :office_worker: Trabajo
-- DevOps / Técnico administrador de sistemas Middleware
+- DevOps / Middleware
 
 ## :books: Estudios
 - Desarrollo de aplicaciones multiplataforma (DAM)
